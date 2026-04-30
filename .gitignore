@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+venv/
+env/
+.venv/
+.python-version
+
+# Node / React
+node_modules/
+build/
+dist/
+.npm
+.eslintcache
+
+# Environment / secrets
+.env
+.env.local
+.env.*.local
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
